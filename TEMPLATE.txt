@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>#Level-Rank - Level-Title</title>
+  <style>
+    body {
+      background-color: #9C4B02;
+      color: white;
+      text-align: center;
+      font-family: Arial;
+      margin: 0;
+    }
+
+    header {
+      background: #874000;
+      padding: 20px;
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+
+    a { color: #00bfff; }
+
+  </style>
+</head>
+
+<body>
+
+  <header>#Level-Rank - Level-Name</header>
+
+  <p><b>Verifier:</b> Level-Verifier</p>
+  <p><b> Points:</b> #-or-points-4-beating-level</p>
+  <p><b> In game Difficulty:</b> In-Game_demon-difficulty</p>
+  <h2>Showcase/Verification/historical-recreation</h2>
+
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/YoutubeVideoID"
+  frameborder="0"
+  allowfullscreen>
+  </iframe>
+  
+  <h2>Victors</h2>
+  <ul>
+  <li>  Victors</li>
+
+
+<br>
+<a href="../index.html">← Back to list</a>
+
+</body>
+</html>
